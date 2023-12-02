@@ -60,15 +60,15 @@ include poll/CMakeFiles/mysqlconnpoll.dir/flags.make
 poll/CMakeFiles/mysqlconnpoll.dir/conn.cpp.o: poll/CMakeFiles/mysqlconnpoll.dir/flags.make
 poll/CMakeFiles/mysqlconnpoll.dir/conn.cpp.o: ../poll/conn.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xj/projects/mysqlConnPoll_CPP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object poll/CMakeFiles/mysqlconnpoll.dir/conn.cpp.o"
-	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/clang++-6.0  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mysqlconnpoll.dir/conn.cpp.o -c /home/xj/projects/mysqlConnPoll_CPP/poll/conn.cpp
+	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mysqlconnpoll.dir/conn.cpp.o -c /home/xj/projects/mysqlConnPoll_CPP/poll/conn.cpp
 
 poll/CMakeFiles/mysqlconnpoll.dir/conn.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysqlconnpoll.dir/conn.cpp.i"
-	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/clang++-6.0 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xj/projects/mysqlConnPoll_CPP/poll/conn.cpp > CMakeFiles/mysqlconnpoll.dir/conn.cpp.i
+	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xj/projects/mysqlConnPoll_CPP/poll/conn.cpp > CMakeFiles/mysqlconnpoll.dir/conn.cpp.i
 
 poll/CMakeFiles/mysqlconnpoll.dir/conn.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysqlconnpoll.dir/conn.cpp.s"
-	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/clang++-6.0 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xj/projects/mysqlConnPoll_CPP/poll/conn.cpp -o CMakeFiles/mysqlconnpoll.dir/conn.cpp.s
+	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xj/projects/mysqlConnPoll_CPP/poll/conn.cpp -o CMakeFiles/mysqlconnpoll.dir/conn.cpp.s
 
 poll/CMakeFiles/mysqlconnpoll.dir/conn.cpp.o.requires:
 
@@ -84,15 +84,15 @@ poll/CMakeFiles/mysqlconnpoll.dir/conn.cpp.o.provides.build: poll/CMakeFiles/mys
 poll/CMakeFiles/mysqlconnpoll.dir/poll.cpp.o: poll/CMakeFiles/mysqlconnpoll.dir/flags.make
 poll/CMakeFiles/mysqlconnpoll.dir/poll.cpp.o: ../poll/poll.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xj/projects/mysqlConnPoll_CPP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object poll/CMakeFiles/mysqlconnpoll.dir/poll.cpp.o"
-	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/clang++-6.0  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mysqlconnpoll.dir/poll.cpp.o -c /home/xj/projects/mysqlConnPoll_CPP/poll/poll.cpp
+	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mysqlconnpoll.dir/poll.cpp.o -c /home/xj/projects/mysqlConnPoll_CPP/poll/poll.cpp
 
 poll/CMakeFiles/mysqlconnpoll.dir/poll.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysqlconnpoll.dir/poll.cpp.i"
-	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/clang++-6.0 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xj/projects/mysqlConnPoll_CPP/poll/poll.cpp > CMakeFiles/mysqlconnpoll.dir/poll.cpp.i
+	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xj/projects/mysqlConnPoll_CPP/poll/poll.cpp > CMakeFiles/mysqlconnpoll.dir/poll.cpp.i
 
 poll/CMakeFiles/mysqlconnpoll.dir/poll.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysqlconnpoll.dir/poll.cpp.s"
-	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/clang++-6.0 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xj/projects/mysqlConnPoll_CPP/poll/poll.cpp -o CMakeFiles/mysqlconnpoll.dir/poll.cpp.s
+	cd /home/xj/projects/mysqlConnPoll_CPP/build/poll && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xj/projects/mysqlConnPoll_CPP/poll/poll.cpp -o CMakeFiles/mysqlconnpoll.dir/poll.cpp.s
 
 poll/CMakeFiles/mysqlconnpoll.dir/poll.cpp.o.requires:
 

@@ -60,15 +60,15 @@ include CMakeFiles/test.a.dir/flags.make
 CMakeFiles/test.a.dir/test.cpp.o: CMakeFiles/test.a.dir/flags.make
 CMakeFiles/test.a.dir/test.cpp.o: ../test.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xj/projects/mysqlConnPoll_CPP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test.a.dir/test.cpp.o"
-	/usr/bin/clang++-6.0  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/test.a.dir/test.cpp.o -c /home/xj/projects/mysqlConnPoll_CPP/test.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/test.a.dir/test.cpp.o -c /home/xj/projects/mysqlConnPoll_CPP/test.cpp
 
 CMakeFiles/test.a.dir/test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test.a.dir/test.cpp.i"
-	/usr/bin/clang++-6.0 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xj/projects/mysqlConnPoll_CPP/test.cpp > CMakeFiles/test.a.dir/test.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xj/projects/mysqlConnPoll_CPP/test.cpp > CMakeFiles/test.a.dir/test.cpp.i
 
 CMakeFiles/test.a.dir/test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test.a.dir/test.cpp.s"
-	/usr/bin/clang++-6.0 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xj/projects/mysqlConnPoll_CPP/test.cpp -o CMakeFiles/test.a.dir/test.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xj/projects/mysqlConnPoll_CPP/test.cpp -o CMakeFiles/test.a.dir/test.cpp.s
 
 CMakeFiles/test.a.dir/test.cpp.o.requires:
 
