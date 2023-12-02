@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libmysqlconnpoll.a  CMakeFiles/mysqlconnpoll.dir/conn.cpp.o CMakeFiles/mysqlconnpoll.dir/poll.cpp.o
+/usr/bin/ranlib ../../lib/libmysqlconnpoll.a

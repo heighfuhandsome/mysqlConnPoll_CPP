@@ -1,0 +1,1 @@
+/usr/bin/clang++-6.0  -g  -rdynamic CMakeFiles/test.a.dir/test.cpp.o  -o test.a  -L/home/xj/projects/mysqlConnPoll_CPP/poll -Wl,-rpath,/home/xj/projects/mysqlConnPoll_CPP/poll ../lib/libmysqlconnpoll.a -lpthread -ljsoncpp -lmysqlclient 

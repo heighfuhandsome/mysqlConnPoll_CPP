@@ -1,0 +1,10 @@
+{
+    "host"    : "hwy",
+    "user"    : "xj",
+    "pwd"     : "Qwert123.",
+    "db"      : "user",
+    "port"    : 3306,
+    "maxSize" : 128,
+    "minSize" : 1,
+    "timeout" :1000
+}

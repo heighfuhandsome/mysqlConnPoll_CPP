@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/xj/projects/mysqlConnPoll_CPP/build",
+  "command": "/usr/bin/clang++-6.0   -I/home/xj/projects/mysqlConnPoll_CPP/poll  -g   -std=gnu++11 -o CMakeFiles/test.a.dir/test.cpp.o -c /home/xj/projects/mysqlConnPoll_CPP/test.cpp",
+  "file": "/home/xj/projects/mysqlConnPoll_CPP/test.cpp"
+},
+{
+  "directory": "/home/xj/projects/mysqlConnPoll_CPP/build/poll",
+  "command": "/usr/bin/clang++-6.0   -I/home/xj/projects/mysqlConnPoll_CPP/poll  -g   -std=gnu++11 -o CMakeFiles/mysqlconnpoll.dir/conn.cpp.o -c /home/xj/projects/mysqlConnPoll_CPP/poll/conn.cpp",
+  "file": "/home/xj/projects/mysqlConnPoll_CPP/poll/conn.cpp"
+},
+{
+  "directory": "/home/xj/projects/mysqlConnPoll_CPP/build/poll",
+  "command": "/usr/bin/clang++-6.0   -I/home/xj/projects/mysqlConnPoll_CPP/poll  -g   -std=gnu++11 -o CMakeFiles/mysqlconnpoll.dir/poll.cpp.o -c /home/xj/projects/mysqlConnPoll_CPP/poll/poll.cpp",
+  "file": "/home/xj/projects/mysqlConnPoll_CPP/poll/poll.cpp"
+}
+]

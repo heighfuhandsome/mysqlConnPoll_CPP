@@ -1,0 +1,6 @@
+/home/xj/projects/mysqlConnPoll_CPP/build/CMakeFiles/rebuild_cache.dir
+/home/xj/projects/mysqlConnPoll_CPP/build/CMakeFiles/edit_cache.dir
+/home/xj/projects/mysqlConnPoll_CPP/build/CMakeFiles/test.a.dir
+/home/xj/projects/mysqlConnPoll_CPP/build/poll/CMakeFiles/rebuild_cache.dir
+/home/xj/projects/mysqlConnPoll_CPP/build/poll/CMakeFiles/edit_cache.dir
+/home/xj/projects/mysqlConnPoll_CPP/build/poll/CMakeFiles/mysqlconnpoll.dir
