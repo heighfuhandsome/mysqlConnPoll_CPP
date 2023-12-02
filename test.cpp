@@ -44,7 +44,7 @@ void oneThread()
     usePoll(poll,1000);
 #endif
     end = steady_clock::now();
-    std::cout << duration_cast<milliseconds>(end - begin).count() << std::endl;
+    std::cout << duration_cast<milliseconds>(end - begin).count() << "ms" << std::endl;
 }
 
 // 多线程
